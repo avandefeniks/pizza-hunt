@@ -1,5 +1,3 @@
-// const { response } = require('express');
-
 const $pizzaList = document.querySelector('#pizza-list');
 
 const getPizzaList = () => {
@@ -38,7 +36,6 @@ const printPizza = ({ _id, pizzaName, toppings, size, commentCount, createdBy, c
   `;
 
   $pizzaList.innerHTML += pizzaCard;
-
 };
 
 getPizzaList();
