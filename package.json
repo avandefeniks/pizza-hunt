@@ -1,8 +1,8 @@
 {
-  "name": "18-nosql",
+  "name": "still-caverns-84194",
   "version": "1.0.0",
   "private": true,
-  "description": "",
+  "description": "a really cool app",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -11,15 +11,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.0.1",
     "express": "^4.17.1",
     "mongoose": "^5.9.7"
   },
-  
-    "name": "still-caverns-84194",
-    "description": "a really cool app",
-    "version": "1.0.0",
-    "engines": {
-      "node": "16.15.0"
-    }
-  
+  "engines": {
+    "node": "16.15.0"
+  }
 }
