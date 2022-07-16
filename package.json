@@ -13,5 +13,13 @@
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.9.7"
-  }
+  },
+  
+    "name": "still-caverns-84194",
+    "description": "a really cool app",
+    "version": "1.0.0",
+    "engines": {
+      "node": "16.15.0"
+    }
+  
 }
